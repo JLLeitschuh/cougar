@@ -117,7 +117,7 @@
         <mockito-core.version>1.9.5</mockito-core.version>
         <tornjak.version>3.0.0.rc1</tornjak.version>
         <slf4j.version>1.7.5</slf4j.version>
-        <spring.dependency.version>3.2.4.RELEASE</spring.dependency.version>
+        <spring.dependency.version>5.3.1</spring.dependency.version>
         <woodstox.version>4.2.0</woodstox.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.skippedModules>
