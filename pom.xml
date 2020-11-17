@@ -112,7 +112,7 @@
         <opendmk.version>1.0-b02</opendmk.version>
         <joda.time.version>2.3</joda.time.version>
         <jsr311.version>1.1.1</jsr311.version>
-        <junit.dependency.version>4.11</junit.dependency.version>
+        <junit.dependency.version>4.13.1</junit.dependency.version>
         <log4j.version>1.2.17</log4j.version>
         <mockito-core.version>1.9.5</mockito-core.version>
         <tornjak.version>3.0.0.rc1</tornjak.version>
